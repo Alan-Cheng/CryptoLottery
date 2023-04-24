@@ -15,6 +15,6 @@
 - 顯示當期樂透號碼（顯示當期台彩彩券號碼，因故未實作)
 
 ## DEMO
-- Linebot首頁
-<br>
+
+### Linebot首頁
 ![image](https://github.com/Alan-Cheng/lottery_project/blob/main/DEMO/linebot.png)
