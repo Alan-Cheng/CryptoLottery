@@ -1,6 +1,4 @@
 # lottery_project
-
-## 介紹
 - 利用python flask + SQLite +ngrok簡單架設一個Linebot
 - 可以提供類似樂透的功能
 
