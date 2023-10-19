@@ -1,6 +1,7 @@
 # 加密樂透
+用加密貨幣買樂透吧！
 - 利用python flask + SQLite +ngrok簡單架設一個Linebot
-- 用加密貨幣買樂透吧！
+
 
 ## 需求
 - 開發者需事先準備line developer的帳號，取得token與key才能使用
